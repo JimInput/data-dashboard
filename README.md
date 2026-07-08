@@ -1,10 +1,10 @@
-# Web Development Project 5 - *Name of App Here*
+# Web Development Project 5 - *Pokemon Dashboard*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jimmy Padilla**
 
-This web app: **insert description**
+This web app: **Displays information about pokemon that satisfy certain filters.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
