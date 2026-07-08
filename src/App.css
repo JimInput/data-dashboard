@@ -1,0 +1,23 @@
+.whole-page {
+  display: flex;
+  flex-direction: row;
+  height: auto;
+  gap: 1rem;
+  background-color: yellow;
+}
+
+.sidebar {
+  flex: 0 0 250px;
+  /* margin: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px; */
+  background-color: blue;
+}
+
+.data-panel {
+  flex: 1;
+  /* margin: 10px;
+  margin-right: 30px;
+  margin-bottom: 0px; */
+  background-color: green;
+}
