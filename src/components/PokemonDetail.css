@@ -1,0 +1,9 @@
+.main-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: min(90%, 520px);
+    /* gap: 0.75rem; */
+}

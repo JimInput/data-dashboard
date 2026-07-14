@@ -1,8 +1,9 @@
 .whole-page {
   display: flex;
   flex-direction: row;
-  height: auto;
+  height: 100vh;
   gap: 1rem;
+  overflow: hidden;
   background-color: yellow;
 }
 
@@ -16,8 +17,7 @@
 
 .data-panel {
   flex: 1;
-  /* margin: 10px;
-  margin-right: 30px;
-  margin-bottom: 0px; */
+  height: 100vh;
+  overflow: hidden;
   background-color: green;
 }
